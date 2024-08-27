@@ -1,0 +1,6 @@
+@MarkelTestJG_HostAddress = http://localhost:5225
+
+GET {{MarkelTestJG_HostAddress}}/claim/
+Accept: application/json
+
+###
